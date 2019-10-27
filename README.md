@@ -1,6 +1,7 @@
 # Weather_Scrapper
 A python script to automatically scrape the weather of a given location from the website : [World Weather Online](https://www.worldweatheronline.com/)
 
+To run the script:
 ```python3 scrapper.py```
 
 
